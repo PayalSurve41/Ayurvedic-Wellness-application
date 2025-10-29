@@ -37,7 +37,7 @@ Follow these steps to set up the project on your system:
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/Ayurvedic-Wellness-Application.git
+git clone https://github.com/PayalSurve41/Ayurvedic-Wellness-Application.git
 
 ### 2️⃣ Navigate into the Project Folder
 
